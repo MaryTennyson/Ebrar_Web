@@ -115,7 +115,7 @@ class _HomeViewState extends State<HomeView> {
               ),
               CustomTextAnimation(
                 text:
-                    "Yıldız Teknik Üniversitesi Matematik Mühendisliği 3. sınıf öğrencisiyim. Yaklaşık 1 senedir Flutter ile mobil uygulama geliştiriyorum. Daha önce Arduino, C ,HTML ve Kotlin ile de yazılım geliştirdim. Ama hiçbiri beni Flutter ile mobil uygulama geliştirmek kadar etkilemedi.",
+                    "Yıldız Teknik Üniversitesi Matematik Mühendisliği 3. sınıf öğrencisiyim. Yaklaşık 1,5 senedir Flutter ile mobil uygulama geliştiriyorum. Daha önce Arduino, C ,HTML ve Kotlin ile de yazılım geliştirdim. Şu an aktif olarak Android (Java) konusunda kendimi geliştirmeye devam ediyorum. Flutter ile de kendi mobil uygulamalarımı yazabiliyorum.",
                 color: Theme.of(context).primaryColor,
                 fontSize: 22,
                 fontWeight: FontWeight.bold,
